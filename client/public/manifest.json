@@ -1,0 +1,9 @@
+{
+  "short_name": "React Appppp",
+  "name": "Create React Apppppp",
+  "start_url": ".",
+  "display": "fullscreen",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "orientation": "landscape"
+}
